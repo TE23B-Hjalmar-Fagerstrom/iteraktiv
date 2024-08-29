@@ -1,0 +1,15 @@
+C:\Programering\iteraktiv\iteraktiv\bin\Debug\net8.0\iteraktiv.exe
+C:\Programering\iteraktiv\iteraktiv\bin\Debug\net8.0\iteraktiv.deps.json
+C:\Programering\iteraktiv\iteraktiv\bin\Debug\net8.0\iteraktiv.runtimeconfig.json
+C:\Programering\iteraktiv\iteraktiv\bin\Debug\net8.0\iteraktiv.dll
+C:\Programering\iteraktiv\iteraktiv\bin\Debug\net8.0\iteraktiv.pdb
+C:\Programering\iteraktiv\iteraktiv\obj\Debug\net8.0\iteraktiv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programering\iteraktiv\iteraktiv\obj\Debug\net8.0\iteraktiv.AssemblyInfoInputs.cache
+C:\Programering\iteraktiv\iteraktiv\obj\Debug\net8.0\iteraktiv.AssemblyInfo.cs
+C:\Programering\iteraktiv\iteraktiv\obj\Debug\net8.0\iteraktiv.csproj.CoreCompileInputs.cache
+C:\Programering\iteraktiv\iteraktiv\obj\Debug\net8.0\iteraktiv.sourcelink.json
+C:\Programering\iteraktiv\iteraktiv\obj\Debug\net8.0\iteraktiv.dll
+C:\Programering\iteraktiv\iteraktiv\obj\Debug\net8.0\refint\iteraktiv.dll
+C:\Programering\iteraktiv\iteraktiv\obj\Debug\net8.0\iteraktiv.pdb
+C:\Programering\iteraktiv\iteraktiv\obj\Debug\net8.0\iteraktiv.genruntimeconfig.cache
+C:\Programering\iteraktiv\iteraktiv\obj\Debug\net8.0\ref\iteraktiv.dll
